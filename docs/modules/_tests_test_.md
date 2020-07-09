@@ -14,4 +14,4 @@
 
 • **should**: *Should* = chai.should()
 
-*Defined in [tests/test.ts:3](https://github.com/edmundpf/print-ts/blob/f757ccc/src/tests/test.ts#L3)*
+*Defined in [tests/test.ts:3](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/tests/test.ts#L3)*

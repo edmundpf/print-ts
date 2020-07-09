@@ -1,6 +1,6 @@
 {
   "name": "@edmundpf/print-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal decorative log tools w/ timestamps",
   "main": "./dist/index.js",
   "files": [

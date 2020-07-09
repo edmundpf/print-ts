@@ -7,15 +7,15 @@
 
 ## Install
 ``` bash
-$ npm i -S print-ts
+$ npm i -S @edmundpf/print-ts
 ```
 
 ## Usage
 ``` javascript
 // Javascript
-const Print = require('print-ts').default
+const Print = require('@edmundpf/print-ts').default
 // Typescript
-import Print from 'print-ts'
+import Print from '@edmundpf/print-ts'
 // Initialize and Run
 const print = new Print()
 print.success('Using print-ts!')

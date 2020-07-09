@@ -36,7 +36,7 @@ Print Class
 
 \+ **new Print**(`args?`: any): *[Print](_utils_print_.print.md)*
 
-*Defined in [utils/Print.ts:18](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L18)*
+*Defined in [utils/Print.ts:18](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L18)*
 
 **Parameters:**
 
@@ -52,7 +52,7 @@ Name | Type |
 
 • **print**: *boolean*
 
-*Defined in [utils/Print.ts:18](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L18)*
+*Defined in [utils/Print.ts:18](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L18)*
 
 ## Methods
 
@@ -60,7 +60,7 @@ Name | Type |
 
 ▸ **debug**(`value`: any): *any*
 
-*Defined in [utils/Print.ts:90](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L90)*
+*Defined in [utils/Print.ts:90](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L90)*
 
 Debug
 
@@ -78,7 +78,7 @@ ___
 
 ▸ **error**(`value`: any): *any*
 
-*Defined in [utils/Print.ts:67](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L67)*
+*Defined in [utils/Print.ts:67](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L67)*
 
 Error Method
 
@@ -96,7 +96,7 @@ ___
 
 ▸ **ifPrintEnabled**(`method`: Function): *any*
 
-*Defined in [utils/Print.ts:102](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L102)*
+*Defined in [utils/Print.ts:102](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L102)*
 
 If print enabled
 
@@ -114,7 +114,7 @@ ___
 
 ▸ **info**(`value`: any): *any*
 
-*Defined in [utils/Print.ts:43](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L43)*
+*Defined in [utils/Print.ts:43](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L43)*
 
 Info
 
@@ -132,7 +132,7 @@ ___
 
 ▸ **log**(`value`: any): *any*
 
-*Defined in [utils/Print.ts:79](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L79)*
+*Defined in [utils/Print.ts:79](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L79)*
 
 Log
 
@@ -150,7 +150,7 @@ ___
 
 ▸ **prefixText**(`prefix`: string, `value`: any): *string*
 
-*Defined in [utils/Print.ts:122](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L122)*
+*Defined in [utils/Print.ts:122](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L122)*
 
 Prefix Text
 
@@ -169,7 +169,7 @@ ___
 
 ▸ **success**(`value`: any): *any*
 
-*Defined in [utils/Print.ts:32](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L32)*
+*Defined in [utils/Print.ts:32](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L32)*
 
 Success
 
@@ -187,7 +187,7 @@ ___
 
 ▸ **timestampText**(`value`: any): *string*
 
-*Defined in [utils/Print.ts:114](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L114)*
+*Defined in [utils/Print.ts:114](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L114)*
 
 Timestamp Text
 
@@ -205,7 +205,7 @@ ___
 
 ▸ **warn**(`value`: any): *any*
 
-*Defined in [utils/Print.ts:54](https://github.com/edmundpf/print-ts/blob/f757ccc/src/utils/Print.ts#L54)*
+*Defined in [utils/Print.ts:54](https://github.com/edmundpf/print-ts/blob/c9b98ec/src/utils/Print.ts#L54)*
 
 Warning
 
