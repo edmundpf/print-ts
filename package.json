@@ -1,7 +1,7 @@
 {
-  "name": "print-ts",
-  "version": "1.0.0",
-  "description": "Basic print tools w/ time logging",
+  "name": "@edmundpf/print-ts",
+  "version": "1.0.1",
+  "description": "Minimal decorative log tools w/ timestamps",
   "main": "./dist/index.js",
   "files": [
     "/dist"
