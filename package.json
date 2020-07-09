@@ -1,0 +1,45 @@
+{
+  "name": "print-ts",
+  "version": "1.0.0",
+  "description": "Basic print tools w/ time logging",
+  "main": "./dist/index.js",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "npx mocha dist/tests",
+    "doc": "npx typedoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/edmundpf/print-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "log",
+    "logger",
+    "logging",
+    "console",
+    "print",
+    "printing"
+  ],
+  "author": "Edmund Pfeil <edmundpf@buffalo.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edmundpf/print-ts/issues"
+  },
+  "homepage": "https://github.com/edmundpf/print-ts#readme",
+  "devDependencies": {
+    "@types/chai": "*",
+    "@types/mocha": "*",
+    "@types/node": "*",
+    "chai": "*",
+    "mocha": "*",
+    "typedoc": "*",
+    "typedoc-plugin-markdown": "*",
+    "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "date-fns": "^2.14.0"
+  }
+}
